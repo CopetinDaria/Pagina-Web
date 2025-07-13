@@ -280,6 +280,6 @@ iframe {
 
 @media (max-width: 600px) {
   .navbar ul li a {
-    padding: 0.35rem
+    padding: 0.35rem 0.7rem
   }
 }
