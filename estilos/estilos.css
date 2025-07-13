@@ -277,3 +277,9 @@ iframe {
   max-width: 100%;
   height: auto;
 }
+
+@media (max-width: 600px) {
+  .navbar ul li a {
+    padding: 0.35rem
+  }
+}
