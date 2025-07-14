@@ -149,6 +149,13 @@ body {
   padding: 1rem;
 }
 
+#menu-grid:empty {
+  padding: 0;
+  margin: 0;
+}
+
+
+
 .menu-card {
   background-color: #fff;
   padding: 1rem;
